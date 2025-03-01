@@ -1,0 +1,8 @@
+express → Web framework for Node.js
+mongoose → ODM for MongoDB
+dotenv → Manages environment variables
+jsonwebtoken → Handles JWT authentication
+bcryptjs → Hashes passwords securely
+cookie-parser → Parses cookies in requests
+cloudinary → Uploads and manages media files
+socket.io → Enables real-time communication
